@@ -1,0 +1,32 @@
+.nav {
+    background: #00BCD4!important;
+}
+.navbar-brand {
+    color: #fff!important;
+}
+.pendiente{
+	border-color: red!important;
+}
+.realizados{
+	border-color:green!important;
+}
+.finish{
+	text-decoration: line-through;
+	text-decoration-color: green!important;
+}
+.card-body-main{
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+.card-body-main input{
+	width: 20px;
+	margin-right: 5px;
+}
+.card p{
+	padding: 10px;
+}
+
+.trash{
+	text-align: right;
+}
